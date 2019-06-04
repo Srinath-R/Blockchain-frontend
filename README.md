@@ -1,7 +1,7 @@
 # Blockchain (front-end)
 
 
-[Live Demo](https://srinath.tk/Blockchain-frontend/)
+[Live Demo](https://srinath.tk/Blockchain-frontend/src/index.html)
 
 Angular application that allows you to interact with a blockchain. You can see the blocks on chain, see transaction within them and even create new transactions and mine blocks.
 
