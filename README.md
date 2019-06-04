@@ -1,6 +1,5 @@
 # Blockchain (front-end)
 
-[![Build Status](https://travis-ci.org/Srinath-R/Blockchain-frontend.svg?branch=master)](https://travis-ci.org/Srinath-R/Blockchain-frontend)
 
 [Live Demo](https://srinath.tk/Blockchain-frontend/)
 
